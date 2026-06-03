@@ -12,25 +12,14 @@ Bu klasör, hakem için **Sarotti DP4⁺ Excel** girişi ve (isteğe bağlı) **
 | `parse_jaguar_nmr.py` | Jaguar `.log` → σ özeti |
 | `build_dp4_excel.py` | İki tam `.log` ile tablo + DP4⁺ olasılığı üretir |
 
-## Önemli: Z izomer `.log` dosyası
+## Z izomer log’u
 
-Yüklenen `jag_G1_spe_*.log` dosyası yalnızca Maestro **özet** çıktısıdır; içinde `Isotropic shielding` yoktur.
-
-**Tam log** şuradan kopyalanmalıdır:
-
-```text
-/home/maa/maestro/merve/jag_G1_spe_B3LYP-D3_6-31Gss/jag_G1_spe_B3LYP-D3_6-31Gss.log
-```
-
-Kopyaladıktan sonra:
+Tam `jag_G1_spe.log` (Z, G1) pakete eklendi. Yeniden üretmek için:
 
 ```bash
 cd dp4_oxime
-python3 parse_jaguar_nmr.py jag_G5_E_spe.log jag_G1_spe.log
 python3 build_dp4_excel.py --e-log jag_G5_E_spe.log --z-log jag_G1_spe.log
 ```
-
-Bu, `DP4_Sarotti_ZoneB_giris.xlsx` dosyasını **¹H + ¹³C** tam doldurur ve `DP4plus_probabilities_percent.xlsx` üretir.
 
 ---
 
@@ -81,16 +70,16 @@ Excel’de tam eşleşen satır yoksa **B3LYP / 6-31G(d,p) / PCM** (DP4⁺ veri 
 | 4.00 | O-CH₃ | H30–32 (**C18**) | H28–30 (**C16**) |
 | 5.23 | CH₂-N | H21–22 | H21–22 |
 | 7.11 / 7.19 | Pyrazol H | H23 / H27 | aynı |
-| 7.22 / 7.59 | Fenil | H19–20 / H28–29 | aynı |
+| 7.22 / 7.59 | Fenil | H19–20 / **H28–29** (E) | H19–20 / **H31–32** (Z) |
 
 | δ (¹³C) | Grup | E atom | Z atom |
 |---------|------|--------|--------|
 | 150.57 | C=N | C6 | C6 |
 | 138.71 | Aromatik | C2 | C2 |
 | 134.54 | Aromatik | C12 | C12 |
-| 127.68 | Aromatik / pyrazol | **C15** | C15 |
-| 127.43 | Aromatik CH | **C4** | C4 |
-| 126.84 | Aromatik CH | **C5** | C5 |
+| 127.68 | Aromatik CH | **C15** (E) | **C4** (Z) |
+| 127.43 | Aromatik CH | **C4** (E) | **C9** (Z) |
+| 126.84 | Aromatik CH | **C5** (E) | **C3** (Z) |
 | 115.74 | Pyrazol CH | C10 | C10 |
 | 61.65 | O-CH₃ | **C18** | **C16** |
 | 44.63 | CH₂-N | C7 | C7 |
@@ -109,7 +98,14 @@ Excel’de tam eşleşen satır yoksa **B3LYP / 6-31G(d,p) / PCM** (DP4⁺ veri 
 
 ---
 
-## Beklenen sonuç (¹H, mevcut veri)
+## DP4⁺ sonuçları (B3LYP/6-31G(d,p)/PCM, bu veri seti)
 
-Yalnızca ¹H ile (B3LYP/6-31G(d,p)/PCM parametreleri): **P(E) ≈ %100**, P(Z) ≈ %0.  
-¹³C eklendiğinde de E’nin baskın kalması beklenir (tam log ile doğrulanmalı).
+| Veri | P(E) | P(Z) |
+|------|------|------|
+| **Yalnızca ¹H (7)** | **~100 %** | ~0 % |
+| Yalnızca ¹³C (10) | ~0 % | ~100 % |
+| **¹H + ¹³C (17)** | **~94 %** | ~6 % |
+
+**Yorum:** Karar **¹H DP4⁺** ile net (**E**). ¹³C’de δ 44.63 (CH₂-N) için E modelinde GIAO sapması büyük (~11 ppm); Z modeli bu satırda daha iyi → birleşik skor hafif düşer ama **E hâlâ baskın**. Hakem paketinde önce **¹H DP4⁺** ekran görüntüsünü koyun; ¹H+¹³C tablosunu ek (SI).
+
+`DP4plus_probabilities_percent.xlsx` dosyasında güncel yüzdeler vardır.

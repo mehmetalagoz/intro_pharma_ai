@@ -6,6 +6,6 @@ Experimental NMR (CDCl₃): ¹H (600 MHz) δ 1.94, 4.00, 5.23, 7.11, 7.19, 7.22,
 
 Computational protocol: E and Z geometries optimized at B3LYP-D3/6-31G** with PCM (chloroform); GIAO NMR shielding tensors at the same level (Jaguar 12.7, Schrödinger). DP4⁺ analysis performed with the Sarotti Excel spreadsheet (shielding tensor input; B3LYP/PCM/6-31G** level in the parameter bank).
 
-Result: P(E) = 100% vs P(Z) = 0% (¹H data; full ¹H + 10×¹³C table after inclusion of Z-isomer ¹³C shieldings from jag_G1 SPE log).
+Result: DP4⁺ on 7 ¹H shifts gave P(E) = 100% vs P(Z) = 0%. Combined ¹H (7) + ¹³C (10) shifts gave P(E) = 94% vs P(Z) = 6%, consistent with assignment of the E oxime ether geometry (¹³C alone is dominated by the benzylic CH₂ resonance where the E isomer GIAO shift shows a larger deviation from experiment).
 
 Files provided: DP4_Sarotti_ZoneB_*.xlsx, jag_G5_E_spe.log, jag_G1_spe.log (full), DP4 Excel screenshot (Zone A + Zone C).

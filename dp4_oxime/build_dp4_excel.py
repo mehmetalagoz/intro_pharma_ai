@@ -11,7 +11,7 @@ import pandas as pd
 
 from parse_jaguar_nmr import parse_jaguar_shieldings
 
-# (exp_ppm, role, sp2, E_labels, Z_labels)
+# (exp_ppm, role, sp2, E_labels, Z_labels) — Maestro atom numbers differ E vs Z
 EXP_H = [
     (1.94, "Pyrazole-CH3", 0, ["H24", "H25", "H26"], ["H24", "H25", "H26"]),
     (4.00, "O-CH3", 0, ["H30", "H31", "H32"], ["H28", "H29", "H30"]),
@@ -19,17 +19,17 @@ EXP_H = [
     (7.11, "Pyrazole-H", 1, ["H23"], ["H23"]),
     (7.19, "Pyrazole-H", 1, ["H27"], ["H27"]),
     (7.22, "Phenyl", 1, ["H19", "H20"], ["H19", "H20"]),
-    (7.59, "Phenyl", 1, ["H28", "H29"], ["H28", "H29"]),
+    (7.59, "Phenyl", 1, ["H28", "H29"], ["H31", "H32"]),
 ]
 
-# 10 observed 13C signals (131.33 ppm not reported); E atom map from Hungarian match
+# 10 observed 13C (no 131.33); E/Z atom pairs from Hungarian match per isomer
 EXP_C = [
     (150.57, "C=N (oxime)", 1, "C6", "C6"),
     (138.71, "Aromatic quat.", 1, "C2", "C2"),
     (134.54, "Aromatic", 1, "C12", "C12"),
-    (127.68, "Aromatic / pyrazole", 1, "C15", "C15"),
-    (127.43, "Aromatic CH", 1, "C4", "C4"),
-    (126.84, "Aromatic CH", 1, "C5", "C5"),
+    (127.68, "Aromatic CH", 1, "C15", "C4"),
+    (127.43, "Aromatic CH", 1, "C4", "C9"),
+    (126.84, "Aromatic CH", 1, "C5", "C3"),
     (115.74, "Pyrazole CH", 1, "C10", "C10"),
     (61.65, "O-CH3", 0, "C18", "C16"),
     (44.63, "CH2-N", 0, "C7", "C7"),
