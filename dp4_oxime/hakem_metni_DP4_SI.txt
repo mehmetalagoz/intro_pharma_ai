@@ -1,0 +1,11 @@
+Supporting Information — DP4⁺ stereochemical assignment (oxime ether)
+
+Compound: 1-(4-chlorophenyl)-2-(4-methyl-1H-pyrazol-1-yl)ethanone O-methyl oxime (C₁₃H₁₄ClN₃O).
+
+Experimental NMR (CDCl₃): ¹H (600 MHz) δ 1.94, 4.00, 5.23, 7.11, 7.19, 7.22, 7.59; ¹³C (150 MHz) δ 150.57, 138.71, 134.54, 131.33, 127.68, 127.43, 126.84, 115.74, 61.65, 44.63, 7.85.
+
+Computational protocol: E and Z geometries optimized at B3LYP-D3/6-31G** with PCM (chloroform); GIAO NMR shielding tensors at the same level (Jaguar 12.7, Schrödinger). DP4⁺ analysis performed with the Sarotti Excel spreadsheet (shielding tensor input; B3LYP/PCM/6-31G** level in the parameter bank).
+
+Result: P(E) = 100% vs P(Z) = 0% (¹H data; full ¹H+¹³C table after inclusion of Z-isomer ¹³C shieldings from jag_G1 SPE log).
+
+Files provided: DP4_Sarotti_ZoneB_*.xlsx, jag_G5_E_spe.log, jag_G1_spe.log (full), DP4 Excel screenshot (Zone A + Zone C).
