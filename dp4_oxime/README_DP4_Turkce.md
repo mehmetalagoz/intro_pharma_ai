@@ -69,7 +69,7 @@ Excel’de tam eşleşen satır yoksa **B3LYP / 6-31G(d,p) / PCM** (DP4⁺ veri 
 
 **¹H** (600 MHz, CDCl₃): δ 1.94, 4.00, 5.23, 7.11, 7.19, 7.22 (2H), 7.59 (2H).
 
-**¹³C** (150 MHz, CDCl₃): δ 150.57, 138.71, 134.54, 131.33, 127.68, 127.43, 126.84, 115.74, 61.65, 44.63, 7.85.
+**¹³C** (150 MHz, CDCl₃): δ 150.57, 138.71, 134.54, 127.68, 127.43, 126.84, 115.74, 61.65, 44.63, 7.85 (**10 sinyal**; 131.33 yok).
 
 ---
 
@@ -88,10 +88,9 @@ Excel’de tam eşleşen satır yoksa **B3LYP / 6-31G(d,p) / PCM** (DP4⁺ veri 
 | 150.57 | C=N | C6 | C6 |
 | 138.71 | Aromatik | C2 | C2 |
 | 134.54 | Aromatik | C12 | C12 |
-| 131.33 | Aromatik | C15 | C15 |
-| 127.68 | Aromatik CH | C4 | C4 |
-| 127.43 | Aromatik CH | C5 | C5 |
-| 126.84 | Aromatik CH | C3 | C3 |
+| 127.68 | Aromatik / pyrazol | **C15** | C15 |
+| 127.43 | Aromatik CH | **C4** | C4 |
+| 126.84 | Aromatik CH | **C5** | C5 |
 | 115.74 | Pyrazol CH | C10 | C10 |
 | 61.65 | O-CH₃ | **C18** | **C16** |
 | 44.63 | CH₂-N | C7 | C7 |
@@ -106,7 +105,7 @@ Excel’de tam eşleşen satır yoksa **B3LYP / 6-31G(d,p) / PCM** (DP4⁺ veri 
 1. Doldurulmuş Sarotti Excel (veya PDF/ekran görüntüsü: Zone A ayarları + Zone C sonuçları).
 2. `DP4_Sarotti_ZoneB_giris.xlsx` (ham σ tablosu).
 3. Jaguar `.log` dosyaları: `jag_G5_E_spe*.log`, `jag_G1_spe*.log` (tam çıktı).
-4. Kısa metin: *DP4⁺ analysis of 7 ¹H and 11 ¹³C shifts (B3LYP/6-31G\*\*/PCM, CHCl₃) gave P(E) = … % for the E oxime ether.*
+4. Kısa metin: *DP4⁺ analysis of 7 ¹H and 10 ¹³C shifts (B3LYP/6-31G\*\*/PCM, CHCl₃) gave P(E) = … % for the E oxime ether.*
 
 ---
 
