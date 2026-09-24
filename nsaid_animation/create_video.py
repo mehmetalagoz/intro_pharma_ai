@@ -173,6 +173,13 @@ def subtitle(draw, text):
         y += 30
 
 
+def current_caption(text: str, progress: float, words_per_caption: int = 10) -> str:
+    words = text.split()
+    captions = [" ".join(words[i:i + words_per_caption]) for i in range(0, len(words), words_per_caption)]
+    index = min(len(captions) - 1, int(progress * len(captions)))
+    return captions[index]
+
+
 def header(draw, title, progress):
     draw.text((55, 38), title, font=font(40, True), fill=WHITE)
     draw.rounded_rectangle((55, 98, 1225, 106), radius=4, fill="#20384f")
@@ -298,7 +305,7 @@ def render_scene(scene: Scene, t: float, duration: float) -> Image.Image:
         centered(d, (640, 462), "Fayda ve risk aynı biyolojik yolaktan doğar.", font(31, True), YELLOW)
         centered(d, (640, 510), "Kişisel tedavi için sağlık profesyoneline danışın.", font(24), WHITE)
 
-    subtitle(d, scene.narration)
+    subtitle(d, current_caption(scene.narration, p))
     return img
 
 
@@ -330,7 +337,7 @@ def render():
             "ffmpeg", "-y", "-loglevel", "error",
             "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{WIDTH}x{HEIGHT}", "-r", str(FPS), "-i", "-",
             "-i", str(audio),
-            "-filter_complex", f"[1:a]apad=pad_dur={scene_duration:.3f},atrim=duration={scene_duration:.3f},afade=t=in:st=0:d=.15,afade=t=out:st={scene_duration - .35:.3f}:d=.35[a]",
+            "-filter_complex", f"[1:a]apad=pad_dur={scene_duration:.3f},atrim=duration={scene_duration:.3f},afade=t=in:st=0:d=0.15,afade=t=out:st={scene_duration - .35:.3f}:d=0.35[a]",
             "-map", "0:v", "-map", "[a]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
             "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-t", f"{scene_duration:.3f}", str(video),
         ]
