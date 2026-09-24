@@ -337,9 +337,9 @@ def render():
             "ffmpeg", "-y", "-loglevel", "error",
             "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{WIDTH}x{HEIGHT}", "-r", str(FPS), "-i", "-",
             "-i", str(audio),
-            "-filter_complex", f"[1:a]apad=pad_dur={scene_duration:.3f},atrim=duration={scene_duration:.3f},afade=t=in:st=0:d=0.15,afade=t=out:st={scene_duration - .35:.3f}:d=0.35[a]",
+            "-filter_complex", f"[1:a]apad=pad_dur={scene_duration:.3f},atrim=duration={scene_duration:.3f},afade=t=in:st=0:d=0.15,afade=t=out:st={scene_duration - .35:.3f}:d=0.35,loudnorm=I=-16:TP=-1.5:LRA=11,volume=3dB,aformat=sample_rates=48000:channel_layouts=stereo[a]",
             "-map", "0:v", "-map", "[a]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
-            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-t", f"{scene_duration:.3f}", str(video),
+            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-t", f"{scene_duration:.3f}", str(video),
         ]
         proc = subprocess.Popen(command, stdin=subprocess.PIPE)
         assert proc.stdin
