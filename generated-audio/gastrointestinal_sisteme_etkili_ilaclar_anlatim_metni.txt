@@ -7,6 +7,8 @@ Mide suyu; hidroklorik asit, sindirim enzimleri, mukus ve B on iki vitamininin e
 
 Paryetal hücrelerden hidroklorik asit salgılanması, birbiriyle ilişkili çeşitli yollarla düzenlenir. Besinlerin kokusu ve tadı vagal uyarıyı başlatır. Asetilkolin, gastrin ve histamin; paryetal hücreleri doğrudan ya da dolaylı olarak uyararak asit salgısını artırır. Bu düzenleyici yollar, ülser tedavisinde kullanılan antisekretuvar ilaçların başlıca hedeflerini oluşturur.
 
+Slayttaki akış şeması bu yolların sonunda aynı noktada birleştiğini gösterir. Koku ve tat vagal uyarıyı; vagal ve lokal uyarılar ise sırasıyla asetilkolin, gastrin ve histamin salınmasını başlatır. Üç aracının okları, son basamakta paryetal hücre ve hidroklorik asit salgısına yönelir.
+
 Peptik ülserler genel olarak mide ülseri ve duodenum ülseri şeklinde sınıflandırılır. Bu iki ülser türünün patogenezi, klinik seyri ve tedaviye verdiği yanıt farklı olabilir. Lezyonlar, asit ve pepsinle temas eden bölgelerde ortaya çıkar. Daha yüzeyel doku kayıpları mukoza erozyonu olarak adlandırılır. Peptik ülserlerin kendiliğinden nedbeleşebilmesi, sık tekrarlaması ve her zaman belirgin ağrıya yol açmaması ortak özellikleridir.
 
 Peptik ülserde en sık görülen yakınma, epigastrik bölgede hissedilen kemirici veya yanıcı nitelikte ağrıdır. Ağrı öğün aralarında ortaya çıkabilir; yemek yemekle, antasit kullanmakla veya kusmakla hafifleyebilir. Gece uykudan uyandıran ağrı, iştahsızlık ve kilo kaybı da görülebilir.
@@ -49,11 +51,15 @@ Bir sonraki grup, gastrik mukozada koruyucu tabaka oluşturan ilaçlardır.
 
 Sukralfat, sukroz oktasülfatın alüminyum hidroksitle oluşturduğu bir komplekstir. Ülserli bölgede bulunan protein ve fibrinojen tabakasıyla birleşerek yapışkan bir bariyer oluşturur. Böylece hasarlı yüzeyi asit ve pepsinin etkisinden korur. Pepsin ve safra asitlerini adsorbe ederek pepsinin enzimatik etkinliğini azaltır. Hidroklorik asit salgısını azaltmaz ve mevcut asidi nötralize etmez. Özellikle duodenum ülserinde kullanılır. En sık görülen yan etkisi kabızlıktır.
 
+Yapı formülünde, birbirine bağlı iki şeker halkasının hidrojen sülfat-alüminyum gruplarıyla çevrelendiği görülür. Yanındaki şema ise koruyucu mekanizmayı özetler: prostaglandinler yüzey epitelinde mukus ve bikarbonat üretimini desteklerken sukralfat, pH değeri yaklaşık iki olan mide lümeniyle pH değeri yaklaşık yedi olan mukus tabakası arasında ek bir fiziksel bariyer oluşturur.
+
 Kolloidal bizmut bileşikleri de ülser yüzeyindeki proteinlerle birleşerek bizmut proteinattan oluşan koruyucu bir tabaka meydana getirir. Bizmut subsitrat ve bizmut içeren kompleks preparatlar bu gruptadır. Bizmutun bir kısmı emilebilir. Uzun süreli veya yüksek düzeyde maruziyette nörotoksisite ve ensefalopati riski bulunur.
 
 Karbenoksolon sodyum, meyan kökünden elde edilen yarı sentetik bir bileşiktir. Lokal olarak midede etki gösterir; mukus üretimini artırır, pepsin sekresyonunu bir miktar baskılar ve intestinal mukusun sekresyonuyla viskozitesini yükseltir. Böylece mide mukozasının korunmasına katkıda bulunur. Mineralokortikoid benzeri etkileri nedeniyle hipertansiyon, sıvı tutulumu ve hipokalemi yapabilir.
 
 Simetikon, dimetil polisiloksan ile silika jel karışımından oluşan bir bileşiktir. Gastrointestinal kanalda gaz kabarcıklarının köpük oluşturmasını önler. Küçük hava kabarcıklarının birleşmesini sağlayarak gazın geğirme yoluyla atılmasını kolaylaştırır. Genellikle tek başına değil, sindirim enzimleri veya antasitlerle kombine preparatlar hâlinde kullanılır.
+
+Kimyasal çizimde, silisyum ve oksijen atomlarının art arda sıralandığı, metil grupları taşıyan tekrarlayıcı bir polimer zinciri görülür. Sunumdaki Alujel kutusu fotoğrafı ise eski bir ticari preparatı örneklemek amacıyla kullanılmıştır.
 
 Şimdi asit salgısını azaltan ilaçlara geçelim.
 
@@ -63,13 +69,23 @@ Antimuskarinik ilaçlar, paryetal hücrelerdeki muskarinik M üç reseptörlerin
 
 Pirenzepin, seçici etkili parasempatolitik bir ilaçtır. Muskarinik reseptörlerin özellikle M bir alt tipini bloke ederek gastroselektif etki gösterir. Mide asit salgısını baskılarken sınırlı da olsa diğer parasempatolitik etkiler ortaya çıkarabilir. Trisiklik yapıda olmasına rağmen belirgin lipofilik özellik göstermez. Gastrointestinal kanaldan kısmen emilir ve etkisi görece uzun sürer. Kimyasal sentezinde piridobenzodiazepinon çekirdeği, kloroasetil klorür ve metilpiperazin gibi ara basamaklardan yararlanılır.
 
+Sentez şeması soldan sağa okunduğunda, trisiklik çekirdeğe önce kloroasetil yan zincirinin bağlandığı, ardından uçtaki klorun metilpiperazin halkasıyla yer değiştirdiği görülür. Böylece pirenzepinin karakteristik yan zinciri iki basamakta oluşturulur.
+
 Proton pompası inhibitörleri, gastrik asit salgısının en etkili inhibitörleri arasındadır. Piridin ve benzimidazol yapıları taşıyan bu ilaçlar zayıf baz özelliğindedir ve ön ilaç olarak uygulanır. Asidik ortamda aktif sulfenamid veya sulfenik asit türevlerine dönüşürler. Aktif form, proton pompasındaki sisteinlerin sülfhidril gruplarıyla kovalent bağ kurar. Böylece pompa geri dönüşümsüz biçimde inhibe edilir.
+
+Etki mekanizması çiziminde ön ilaç önce asidik ortamda protonlanır; molekül içi yeniden düzenlenme ve su kaybı sonrasında halkalı, reaktif sulfenamid formu meydana gelir. Bu aktif ara ürün, pompadaki sistein sekiz yüz on üç kalıntısıyla kovalent bir disülfür bağı kurar. Şemadaki son yapı, enzimin neden geri dönüşümsüz olarak baskılandığını görsel biçimde açıklar.
 
 Proton pompasının fizyolojisini kısaca ele alalım. Paryetal hücrelerde su ve karbondioksit, karbonik anhidraz enziminin etkisiyle proton ve bikarbonata dönüştürülür. Oluşan protonlar, hidrojen-potasyum ATPaz aracılığıyla aktif olarak mide lümenine taşınırken potasyum iyonları hücre içine alınır. Proton ve potasyumun karşılıklı taşındığı bu sistem proton pompası olarak adlandırılır. Gerekli enerji ATP'den sağlanır.
 
 Klorür iyonları paryetal hücreye interstisyel sıvıdan alınır ve daha sonra mide lümenine geçer. Buna karşılık bikarbonat kana verilir. Yemek sonrasında kana bikarbonat geçişi, geçici postprandiyal alkali dalga ve kan pH'sında hafif bir artış oluşturabilir.
 
+Hücre şemasında mide lümeni solda, paryetal hücrenin kan tarafı sağda gösterilmiştir. Apikal yüzeyde hidrojen-potasyum ATPaz protonları lümene verir; klorür de ayrı bir kanaldan aynı yöne geçer ve hidroklorik asit oluşur. Bazolateral yüzeydeki iyon değiştiricileri ise hücrenin potasyum, sodyum ve klorür dengesini sürdürür.
+
+Bir diğer toplu şema, tedavi hedeflerini aynı görüntüde birleştirir. Gastrin, asetilkolin ve histamin sinyalleri paryetal hücrede kalsiyum ya da siklik AMP yolları üzerinden proton pompasına ulaşır. Muskarinik ve H iki reseptör antagonistleri daha yukarıdaki sinyalleri, omeprazol ise son basamak olan proton pompasını hedefler. Antasitler lümendeki asidi nötralize eder; antibiyotikler Helicobacter pylori'ye yönelir; sukralfat ve karbenoksolon da yüzeydeki mukus-bikarbonat savunmasını destekler.
+
 Başlıca proton pompası inhibitörleri omeprazol, esomeprazol, lansoprazol, rabeprazol ve pantoprazoldür. Bu moleküller ortak piridin, sülfoksit ve benzimidazol iskeletine sahiptir; yan gruplarındaki farklılıklar farmakokinetik ve metabolik özelliklerini etkileyebilir. Esomeprazol, omeprazolün S eksi enantiyomeridir.
+
+Tabloda ortak çekirdeğin dört değişken bölgesi, R birden R dörde kadar gösterilmiştir. Omeprazol, lansoprazol, rabeprazol ve pantoprazol arasındaki farkın esas olarak bu yan gruplardan kaynaklandığı; esomeprazolün ise yeni bir yan grup türevi değil, omeprazolün tek bir enantiyomeri olduğu vurgulanır.
 
 Proton pompası inhibitörleri düşük pH'da kararlı değildir. Bu nedenle genellikle bağırsakta açılan, enterik kaplı kapsül veya tabletler şeklinde formüle edilirler. Büyük ölçüde karaciğerde metabolize olurlar. Plazma yarılanma ömürleri yaklaşık bir ile iki saat arasında olsa da proton pompasına geri dönüşümsüz bağlandıkları için etkileri daha uzun sürer. Genellikle yemekten önce kullanılmaları önerilir; ancak uygulama biçimi seçilen ilacın ürün bilgisine göre düzenlenmelidir.
 
@@ -77,7 +93,11 @@ Proton pompası inhibitörlerinin yan etkileri genel olarak seyrektir. Bulantı,
 
 Omeprazol, benzimidazol türevi güçlü bir asit sekresyon inhibitörüdür. Ön ilaç olarak alınır ve paryetal hücrelerin asidik kanaliküllerinde aktif sulfenamid türevine dönüşür. Kimyasal sentezinde metoksi sübstitüe benzimidazol ve piridin türevleri bir araya getirilir; oluşan tiyoeter grubunun oksidasyonuyla sülfoksit yapısındaki omeprazol elde edilir.
 
+Sentez görseli bu süreci üç yapı üzerinden verir. Önce merkapto-benzimidazol halkası hazırlanır, sonra piridinli yan zincir kükürt üzerinden bağlanır. Son oksidasyon basamağında tiyoeter, omeprazolün ayırt edici sülfoksit grubuna dönüştürülür.
+
 Omeprazol ve lansoprazolün metabolizmasında özellikle sitokrom P dört yüz elli, iki C on dokuz enzimi rol oynar. Diazepam da aynı enzim sistemiyle metabolize edildiğinden etkileşim olasılığı bulunur. Esomeprazolün metabolizmasında iki C on dokuzun yanı sıra üç A dört enzimi de rol oynar. Genetik enzim farklılıkları, hastalar arasında ilaç düzeyi ve yanıt farklılıklarına neden olabilir.
+
+Metabolizma çiziminde kükürt atomunun farklı oksidasyon basamakları yan yana gösterilir: sülfoksit grubu indirgenerek sülfide veya ileri oksidasyonla sülfon türevine dönüşebilir. Ayrıca beş-metil grubunun hidroksimetil grubuna oksitlendiği belirtilir.
 
 Son olarak prokinetik ajanları ele alalım.
 
@@ -86,6 +106,8 @@ Prokinetik ilaçlar, gastrointestinal hareketliliği artırarak mide boşalma s�
 Sisaprid, prokinetik etkili bir benzamit türevidir ve sitokrom P dört yüz elli, üç A dört enziminin substratıdır. Metabolizmasını baskılayan ilaçlarla birlikte kullanılması, kandaki sisaprid düzeyini yükseltebilir ve ciddi kardiyak ritim bozukluğu riskini artırabilir. Bu güvenlilik sorunu nedeniyle kullanımı birçok yerde ciddi biçimde sınırlandırılmış veya sonlandırılmıştır.
 
 Levosülpirid, sübstitüe benzamit yapısında bir bileşiktir. Prokinetik etkide dopaminerjik ve serotonerjik mekanizmalar rol oynar. Alt özofagus sfinkterini kasarak, gastrik peristaltizmi artırarak ve mide boşalmasını hızlandırarak etki gösterir.
+
+Son iki slayttaki yapı formülleri, her iki prokinetik ajanın da benzamit çekirdeği taşıdığını gösterir. Sisapridin yapısında florofenoksi-propil ve piperidin grupları; levosülpiridde ise sülfonamid ve etilpirrolidin grupları öne çıkar. Bu çizimler, aynı farmakolojik başlık altında yer alan moleküllerin yan zincirler bakımından belirgin biçimde farklılaşabildiğini gösterir.
 
 Özetlemek gerekirse, peptik ülser tedavisi yalnızca mide asidini nötralize etmekten ibaret değildir. Tedavi; asit sekresyonunun azaltılması, mukozal savunmanın güçlendirilmesi, Helicobacter pylori enfeksiyonunun eradike edilmesi ve hastaya özgü risk faktörlerinin kontrolünü birlikte içerir. Antasitler hızlı ancak kısa süreli rahatlama sağlarken, proton pompası inhibitörleri asit salgısını güçlü ve uzun süreli biçimde baskılar. Sukralfat ve bizmut bileşikleri hasarlı mukozada koruyucu bariyer oluşturur. Uygun ilaç seçimi; hastanın tanısı, eşlik eden hastalıkları, kullandığı diğer ilaçlar ve güncel klinik kılavuzlar dikkate alınarak yapılmalıdır.
 
