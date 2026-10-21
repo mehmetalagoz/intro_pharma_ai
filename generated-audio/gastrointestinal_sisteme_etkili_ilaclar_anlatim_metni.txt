@@ -1,0 +1,92 @@
+Gastrointestinal Sisteme Etkili İlaçlar.
+Farmasötik Kimya Üç dersi, beşinci hafta.
+
+Bu derste, peptik ülserin oluşum mekanizmalarını ve tedavisinde kullanılan başlıca ilaç gruplarını inceleyeceğiz. Ayrıca proton pompası inhibitörlerinin etki mekanizması, farmakokinetik özellikleri ve prokinetik ajanlar üzerinde duracağız.
+
+Mide suyu; hidroklorik asit, sindirim enzimleri, mukus ve B on iki vitamininin emilimi için gerekli olan intrinsik faktörü içerir. pH değeri yaklaşık sıfır virgül beş ile bir virgül beş arasında değişir. Mide, bir günde ortalama iki ile üç litre mide suyu salgılar. Hidroklorik asit, besinlerle alınan proteinleri denatüre ederek enzimatik parçalanmayı kolaylaştırır. Aynı zamanda pepsinojeni aktif pepsine dönüştürür ve besinlerle alınan birçok mikroorganizmanın etkisiz hâle getirilmesine yardımcı olur.
+
+Paryetal hücrelerden hidroklorik asit salgılanması, birbiriyle ilişkili çeşitli yollarla düzenlenir. Besinlerin kokusu ve tadı vagal uyarıyı başlatır. Asetilkolin, gastrin ve histamin; paryetal hücreleri doğrudan ya da dolaylı olarak uyararak asit salgısını artırır. Bu düzenleyici yollar, ülser tedavisinde kullanılan antisekretuvar ilaçların başlıca hedeflerini oluşturur.
+
+Peptik ülserler genel olarak mide ülseri ve duodenum ülseri şeklinde sınıflandırılır. Bu iki ülser türünün patogenezi, klinik seyri ve tedaviye verdiği yanıt farklı olabilir. Lezyonlar, asit ve pepsinle temas eden bölgelerde ortaya çıkar. Daha yüzeyel doku kayıpları mukoza erozyonu olarak adlandırılır. Peptik ülserlerin kendiliğinden nedbeleşebilmesi, sık tekrarlaması ve her zaman belirgin ağrıya yol açmaması ortak özellikleridir.
+
+Peptik ülserde en sık görülen yakınma, epigastrik bölgede hissedilen kemirici veya yanıcı nitelikte ağrıdır. Ağrı öğün aralarında ortaya çıkabilir; yemek yemekle, antasit kullanmakla veya kusmakla hafifleyebilir. Gece uykudan uyandıran ağrı, iştahsızlık ve kilo kaybı da görülebilir.
+
+Peptik ülser oluşumunda dört temel mekanizma öne çıkar: Helicobacter pylori enfeksiyonu, artmış hidroklorik asit sekresyonu, aside karşı yetersiz kalan mukozal savunma mekanizmaları ve zedeleyici etkenlerle koruyucu mekanizmalar arasındaki dengenin bozulması.
+
+Mukozayı zedeleyen etkenler arasında duodenum içeriğinin mideye geri kaçması, steroid olmayan antiinflamatuvar ilaçlar, glukokortikoidler, kahve, çay, kafeinli ve kolalı içecekler ile sigara ve nikotin sayılabilir. Steroid olmayan antiinflamatuvar ilaçlar ve glukokortikoidler, prostaglandin sentezini baskılayarak mukozal savunmayı zayıflatır.
+
+Duodenum ülseri en sık duodenum bulbusunda görülür. Mukozadaki ülserin çevresinde inflamatuvar değişiklikler bulunabilir. Helicobacter pylori enfeksiyonu en önemli nedenlerden biridir. Bunun yanında steroid olmayan antiinflamatuvar ilaçlar, Zollinger-Ellison sendromu, kronik hastalıklar, ağır stres, glukokortikoid kullanımı, sigara ve alkol de risk faktörleri arasındadır.
+
+Helicobacter pylori yalnızca duodenum ülseriyle ilişkili değildir. Kronik gastrite, mide kanserine ve mukoza ile ilişkili lenfoid doku tümörü olarak bilinen MALT lenfomaya da zemin hazırlayabilir.
+
+Tedavinin temel hedefleri; yakınmaları gidermek, ülserin iyileşmesini sağlamak, komplikasyonları önlemek ve tekrarlama riskini azaltmaktır. Genel önlemler arasında sigaranın bırakılması, gerektiğinde antasit kullanımı ve antisekretuvar tedavi yer alır. Bununla birlikte, Helicobacter pylori varlığında yalnızca asit salgısını azaltmak yeterli değildir. Uzun süreli iyileşme için bakterinin eradike edilmesi gerekir.
+
+Helicobacter pylori eradikasyonunda asit baskılayıcı tedaviyle antibiyotikler birlikte kullanılır. Klasik üçlü tedavide bir proton pompası inhibitörü; klaritromisin gibi bir makrolit antibiyotik ve amoksisilin ya da metronidazolle kombine edilir. Amoksisilin, metronidazol ve omeprazol; klaritromisin, metronidazol ve omeprazol; amoksisilin, klaritromisin ve omeprazol olası kombinasyonlara örnektir. Antibiyotik direnci ve güncel tedavi kılavuzları, seçilecek rejimi etkileyebileceğinden klinik karar hastaya ve bölgesel direnç verilerine göre verilmelidir.
+
+Peptik ülser tedavisinde kullanılan ilaçlar beş ana grupta ele alınabilir. Birinci grup antasitlerdir. İkinci grup, gastrik mukozada koruyucu tabaka oluşturan ilaçlardır. Üçüncü grup, asit salgısını azaltan ilaçlardır. Bu grupta proton pompası inhibitörleri, H iki reseptör antagonistleri, antimuskarinik ilaçlar, somatostatin analogları ve gastrin reseptör antagonistleri bulunur. Dördüncü grup, prostaglandin analogları gibi sitoprotektif ilaçlardır. Beşinci grup ise Helicobacter pylori eradikasyonunda kullanılan antibiyotiklerdir.
+
+Şimdi antasitleri inceleyelim.
+
+Antasitler, mide mukozasının salgıladığı hidroklorik asidi nötralize ederek mide içeriğinin asitliğini azaltan, ağız yoluyla kullanılan ve çoğunlukla lokal etki gösteren ilaçlardır. Sistemik etkili ve sistemik olmayan antasitler şeklinde iki ana gruba ayrılırlar.
+
+Sistemik etkili antasitlere sodyum bikarbonat ve sodyum sitrat örnek verilebilir. Sodyum bikarbonat, hidroklorik asitle reaksiyona girerek sodyum klorür, su ve karbondioksit oluşturur. Emilmesi nedeniyle metabolik alkaloza yol açabilir. Ayrıca sodyum yükünü artırarak plazma ve hücre dışı sıvı hacminde artışa neden olabilir.
+
+Sistemik olmayan lokal etkili antasitler; magnezyum, alüminyum ve kalsiyum bileşikleridir. Bu maddeler mide asidini nötralize ettikten sonra suda çözünen klorür tuzlarına dönüşür. İnce bağırsakta büyük bölümü çöker ve çok az bir kısmı emilir. Emilimin sınırlı olması ve bağırsak bikarbonatının karbonat şeklinde çöktürülmesi, belirgin sistemik alkaloz gelişme riskini azaltır.
+
+Magnezyum bileşiklerinin asit bağlama kapasitesi ve etki başlangıcı görece yüksektir. Ancak laksatif etki göstererek ishale yol açabilirler. Bu nedenle çoğunlukla kabızlık yapabilen alüminyum veya kalsiyum bileşikleriyle birlikte kullanılırlar. Magnezyum oksit, magnezyum hidroksit, magnezyum sülfat ve magnezyum trisilikat bu gruba örnektir.
+
+Alüminyum bileşikleri, asit bağlama kapasitesi ve nötralizasyon hızı daha düşük olan zayıf antasitlerdir. Alüminyum hidroksit, mide asidiyle reaksiyona girerek alüminyum klorür oluşturur. Oluşan alüminyum bileşiği, besin kaynaklı fosfatları çözünmeyen alüminyum fosfat hâlinde bağlayabilir ve fosfat emilimini azaltabilir. Uzun süreli kullanım hipofosfatemiye ve kalsiyum-fosfat dengesinin bozulmasına yol açabilir. Ayrıca kabızlık yaptıkları için çoğunlukla tek başlarına kullanılmazlar.
+
+Alüminyum bileşiklerinin nötralizasyon son noktası yaklaşık pH dört virgül beş ile beş arasındadır. Bu nedenle pepsin ve katepsin gibi enzimleri tamamen denatüre etmezler. Bununla birlikte, özellikle böbrek fonksiyon bozukluğunda alüminyum birikimi ve nörotoksisite riski dikkate alınmalıdır. Alüminyum hidroksit, alüminyum fosfat, alüminyum magnezyum silikat ve hidrotalsit bu gruptaki bileşiklerden bazılarıdır.
+
+Kalsiyum bileşikleri içinde antasit olarak başlıca kalsiyum karbonat kullanılır. Kalsiyum karbonatın asit nötralize etme kapasitesi yüksektir; etkisi hızlı başlar ve görece uzun sürer. Ancak kabızlık yapabilir. Bu nedenle magnezyum bileşikleriyle kombine edilebilir. Diğer sistemik olmayan antasitlere göre daha fazla emilir; hiperkalsemiye ve hafif metabolik alkaloza yol açabilir.
+
+Antasitler; peptik ülser, gastroözofageal reflü, Zollinger-Ellison sendromu, stres ülseri ve bazı asitle ilişkili klinik durumlarda kullanılabilir. Bununla birlikte güncel klinik uygulamada endikasyon ve tedavi seçimi hastanın özelliklerine göre değerlendirilmelidir.
+
+Antasitlerin en sık görülen yan etkileri, alüminyum ve kalsiyum bileşiklerinde kabızlık; magnezyum bileşiklerinde ise ishaldir. Sistemik yan etkiler arasında alkaloz, sodyum yüklenmesi ve hipofosfatemiye bağlı osteomalazi bulunur. Böbrek yetmezliği olan hastalarda metal iyonlarının birikmesi, merkezî sinir sistemi depresyonu ve kas güçsüzlüğü gibi ciddi sorunlara neden olabilir.
+
+Bir sonraki grup, gastrik mukozada koruyucu tabaka oluşturan ilaçlardır.
+
+Sukralfat, sukroz oktasülfatın alüminyum hidroksitle oluşturduğu bir komplekstir. Ülserli bölgede bulunan protein ve fibrinojen tabakasıyla birleşerek yapışkan bir bariyer oluşturur. Böylece hasarlı yüzeyi asit ve pepsinin etkisinden korur. Pepsin ve safra asitlerini adsorbe ederek pepsinin enzimatik etkinliğini azaltır. Hidroklorik asit salgısını azaltmaz ve mevcut asidi nötralize etmez. Özellikle duodenum ülserinde kullanılır. En sık görülen yan etkisi kabızlıktır.
+
+Kolloidal bizmut bileşikleri de ülser yüzeyindeki proteinlerle birleşerek bizmut proteinattan oluşan koruyucu bir tabaka meydana getirir. Bizmut subsitrat ve bizmut içeren kompleks preparatlar bu gruptadır. Bizmutun bir kısmı emilebilir. Uzun süreli veya yüksek düzeyde maruziyette nörotoksisite ve ensefalopati riski bulunur.
+
+Karbenoksolon sodyum, meyan kökünden elde edilen yarı sentetik bir bileşiktir. Lokal olarak midede etki gösterir; mukus üretimini artırır, pepsin sekresyonunu bir miktar baskılar ve intestinal mukusun sekresyonuyla viskozitesini yükseltir. Böylece mide mukozasının korunmasına katkıda bulunur. Mineralokortikoid benzeri etkileri nedeniyle hipertansiyon, sıvı tutulumu ve hipokalemi yapabilir.
+
+Simetikon, dimetil polisiloksan ile silika jel karışımından oluşan bir bileşiktir. Gastrointestinal kanalda gaz kabarcıklarının köpük oluşturmasını önler. Küçük hava kabarcıklarının birleşmesini sağlayarak gazın geğirme yoluyla atılmasını kolaylaştırır. Genellikle tek başına değil, sindirim enzimleri veya antasitlerle kombine preparatlar hâlinde kullanılır.
+
+Şimdi asit salgısını azaltan ilaçlara geçelim.
+
+Bu grupta antimuskarinik ilaçlar, proton pompası inhibitörleri, H iki reseptör antagonistleri, somatostatin analogları ve gastrin reseptör antagonistleri yer alır.
+
+Antimuskarinik ilaçlar, paryetal hücrelerdeki muskarinik M üç reseptörlerini; histamin salgılayan hücreler ve G hücrelerindeki M bir reseptörlerini bloke ederek asit ve pepsin salgısını azaltır. Ayrıca mide boşalmasını yavaşlatabilir ve antispazmodik etkiyle ağrıyı hafifletebilirler. Pirenzepin ve telenzepin gibi M bir reseptörüne daha seçici ilaçlar, belirgin bir klinik üstünlük göstermedikleri için günümüzde yaygın kullanılmaz.
+
+Pirenzepin, seçici etkili parasempatolitik bir ilaçtır. Muskarinik reseptörlerin özellikle M bir alt tipini bloke ederek gastroselektif etki gösterir. Mide asit salgısını baskılarken sınırlı da olsa diğer parasempatolitik etkiler ortaya çıkarabilir. Trisiklik yapıda olmasına rağmen belirgin lipofilik özellik göstermez. Gastrointestinal kanaldan kısmen emilir ve etkisi görece uzun sürer. Kimyasal sentezinde piridobenzodiazepinon çekirdeği, kloroasetil klorür ve metilpiperazin gibi ara basamaklardan yararlanılır.
+
+Proton pompası inhibitörleri, gastrik asit salgısının en etkili inhibitörleri arasındadır. Piridin ve benzimidazol yapıları taşıyan bu ilaçlar zayıf baz özelliğindedir ve ön ilaç olarak uygulanır. Asidik ortamda aktif sulfenamid veya sulfenik asit türevlerine dönüşürler. Aktif form, proton pompasındaki sisteinlerin sülfhidril gruplarıyla kovalent bağ kurar. Böylece pompa geri dönüşümsüz biçimde inhibe edilir.
+
+Proton pompasının fizyolojisini kısaca ele alalım. Paryetal hücrelerde su ve karbondioksit, karbonik anhidraz enziminin etkisiyle proton ve bikarbonata dönüştürülür. Oluşan protonlar, hidrojen-potasyum ATPaz aracılığıyla aktif olarak mide lümenine taşınırken potasyum iyonları hücre içine alınır. Proton ve potasyumun karşılıklı taşındığı bu sistem proton pompası olarak adlandırılır. Gerekli enerji ATP'den sağlanır.
+
+Klorür iyonları paryetal hücreye interstisyel sıvıdan alınır ve daha sonra mide lümenine geçer. Buna karşılık bikarbonat kana verilir. Yemek sonrasında kana bikarbonat geçişi, geçici postprandiyal alkali dalga ve kan pH'sında hafif bir artış oluşturabilir.
+
+Başlıca proton pompası inhibitörleri omeprazol, esomeprazol, lansoprazol, rabeprazol ve pantoprazoldür. Bu moleküller ortak piridin, sülfoksit ve benzimidazol iskeletine sahiptir; yan gruplarındaki farklılıklar farmakokinetik ve metabolik özelliklerini etkileyebilir. Esomeprazol, omeprazolün S eksi enantiyomeridir.
+
+Proton pompası inhibitörleri düşük pH'da kararlı değildir. Bu nedenle genellikle bağırsakta açılan, enterik kaplı kapsül veya tabletler şeklinde formüle edilirler. Büyük ölçüde karaciğerde metabolize olurlar. Plazma yarılanma ömürleri yaklaşık bir ile iki saat arasında olsa da proton pompasına geri dönüşümsüz bağlandıkları için etkileri daha uzun sürer. Genellikle yemekten önce kullanılmaları önerilir; ancak uygulama biçimi seçilen ilacın ürün bilgisine göre düzenlenmelidir.
+
+Proton pompası inhibitörlerinin yan etkileri genel olarak seyrektir. Bulantı, kusma, karın ağrısı, ishal veya kabızlık, baş ağrısı ve cilt döküntüsü görülebilir. Uzun süreli tedavi B on iki vitamini eksikliğiyle ilişkili olabilir. Hipergastrinemi gelişebilir ve gastrointestinal sistemdeki bakteri sayısı artabilir. Bazı proton pompası inhibitörleri sitokrom P dört yüz elli enzimlerini etkileyerek benzodiazepinler, varfarin ve fenitoin gibi ilaçların metabolizmasını değiştirebilir.
+
+Omeprazol, benzimidazol türevi güçlü bir asit sekresyon inhibitörüdür. Ön ilaç olarak alınır ve paryetal hücrelerin asidik kanaliküllerinde aktif sulfenamid türevine dönüşür. Kimyasal sentezinde metoksi sübstitüe benzimidazol ve piridin türevleri bir araya getirilir; oluşan tiyoeter grubunun oksidasyonuyla sülfoksit yapısındaki omeprazol elde edilir.
+
+Omeprazol ve lansoprazolün metabolizmasında özellikle sitokrom P dört yüz elli, iki C on dokuz enzimi rol oynar. Diazepam da aynı enzim sistemiyle metabolize edildiğinden etkileşim olasılığı bulunur. Esomeprazolün metabolizmasında iki C on dokuzun yanı sıra üç A dört enzimi de rol oynar. Genetik enzim farklılıkları, hastalar arasında ilaç düzeyi ve yanıt farklılıklarına neden olabilir.
+
+Son olarak prokinetik ajanları ele alalım.
+
+Prokinetik ilaçlar, gastrointestinal hareketliliği artırarak mide boşalma süresini kısaltır. Alt özofagus sfinkterinin tonusunu artırmaları, mide içeriğinin özofagusa geri kaçmasını azaltabilir.
+
+Sisaprid, prokinetik etkili bir benzamit türevidir ve sitokrom P dört yüz elli, üç A dört enziminin substratıdır. Metabolizmasını baskılayan ilaçlarla birlikte kullanılması, kandaki sisaprid düzeyini yükseltebilir ve ciddi kardiyak ritim bozukluğu riskini artırabilir. Bu güvenlilik sorunu nedeniyle kullanımı birçok yerde ciddi biçimde sınırlandırılmış veya sonlandırılmıştır.
+
+Levosülpirid, sübstitüe benzamit yapısında bir bileşiktir. Prokinetik etkide dopaminerjik ve serotonerjik mekanizmalar rol oynar. Alt özofagus sfinkterini kasarak, gastrik peristaltizmi artırarak ve mide boşalmasını hızlandırarak etki gösterir.
+
+Özetlemek gerekirse, peptik ülser tedavisi yalnızca mide asidini nötralize etmekten ibaret değildir. Tedavi; asit sekresyonunun azaltılması, mukozal savunmanın güçlendirilmesi, Helicobacter pylori enfeksiyonunun eradike edilmesi ve hastaya özgü risk faktörlerinin kontrolünü birlikte içerir. Antasitler hızlı ancak kısa süreli rahatlama sağlarken, proton pompası inhibitörleri asit salgısını güçlü ve uzun süreli biçimde baskılar. Sukralfat ve bizmut bileşikleri hasarlı mukozada koruyucu bariyer oluşturur. Uygun ilaç seçimi; hastanın tanısı, eşlik eden hastalıkları, kullandığı diğer ilaçlar ve güncel klinik kılavuzlar dikkate alınarak yapılmalıdır.
+
+Bu sunum, eğitim amacıyla hazırlanmıştır. Tanı ve tedavi kararları için güncel kaynaklara ve sağlık profesyonellerinin değerlendirmesine başvurulmalıdır.
